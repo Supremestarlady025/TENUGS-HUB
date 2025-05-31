@@ -1,2 +1,2 @@
 # TENUGS-HUB
-Exploratory Data Analysis (EDA) Repository*: "Exploratory data analysis and visualization of a dataset, featuring insights into trends, correlations, Matplotlib. *Predictive Modeling Repository*: "A predictive modeling project using machine learning algorithms to forecast sales, featuring, Power BI,  SQL, Excel
+This is where i started my portfolio building while taking my Data Analysis class with the Incubator 
